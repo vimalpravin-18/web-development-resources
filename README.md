@@ -1,6 +1,6 @@
 # Awesome Web Development Resources ![Awesome][awesome-badge]
 
-This is an awesome project about Web Development resources. ⚡
+This is about the seeking engineering student mainly studying Web development domain. ⚡
 
 Resources are added frequently! ⚡
 
